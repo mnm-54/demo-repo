@@ -12,6 +12,8 @@
 
     <p><?php echo "hello world"; ?></p>
 
+    <p><?php echo "line from branch 1"; ?></p>
+
 </body>
 
 </html>
