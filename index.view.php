@@ -12,7 +12,9 @@
 
     <p><?php echo "hello world"; ?></p>
 
-    <p><?php echo "line from branch 2"; ?>
+
+
+    <p><?php echo "line from branch 3"; ?>
 
     <p><?php echo "new line in main"; ?>
 
