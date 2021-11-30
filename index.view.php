@@ -14,6 +14,8 @@
 
     <p><?php echo "line from branch 2"; ?>
 
+    <p><?php echo "new line in main"; ?>
+
 </body>
 
 </html>
